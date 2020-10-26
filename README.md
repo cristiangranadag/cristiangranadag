@@ -1,16 +1,21 @@
 ### Hi there 👋
-# Cristian
-## Alexis
-### Granada
-Gomez 1
-Loaiza 2
-Marulanda 3
+# Cristian 1
+## Cristian 2
+### Cristian 3
+#### Cristian 4
+##### Cristian 5
+###### Cristian 6
+
+> Granada
 
 [imagen](https://proicecdn.azureedge.net/shared/content/imagenes/Usuarios/ImagenesCKEditor/2b91158d-e72b-498b-8571-c4ae9f8dab8b/bafbaf9d-a5cc-49eb-898e-a9eb71cb2dd2.jpg)
 
 - Estudio
-- *Estuido*
-- **Estudio**
+
+*Estuido*
+
+**Estudio**
+
 1. Algoritmia
 2. Frontend
 3. Backend
