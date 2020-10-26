@@ -1,7 +1,10 @@
 ### Hi there 👋
 # Cristian
-## Cristian
-### Cristian
+## Alexis
+### Granada
+Gomez 1
+Loaiza 2
+Marulanda 3
 
 [imagen](https://proicecdn.azureedge.net/shared/content/imagenes/Usuarios/ImagenesCKEditor/2b91158d-e72b-498b-8571-c4ae9f8dab8b/bafbaf9d-a5cc-49eb-898e-a9eb71cb2dd2.jpg)
 
