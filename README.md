@@ -1,5 +1,6 @@
 ### Hi there 👋 :confused: :mask: :question:
-# Cristian 1
+
+# Cristian 1 :dog:
 ## Cristian 2
 ### Cristian 3
 #### Cristian 4
@@ -21,7 +22,7 @@ ___
 + Backend
 
 
-## **Estudio:**
+## **Estudio:** :books:
 
 1. Algoritmia
 2. Frontend
