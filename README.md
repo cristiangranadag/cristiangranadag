@@ -43,9 +43,9 @@ ___
 ![Binario](https://img.vixdata.io/pd/jpg-large/es/sites/default/files/btg/codigo_binario_computadoras.jpg)
 
 
-## Codigo
+## Codigo 
 
-    Código binario
+    Código binario :one: :zero: :one: :zero: :one: :zero:
     
 ~~~    
 código fundamental en el que se basan los ordenadores. Es el más simple pues solo consta de dos elementos: 0 y 1; los cuales, al ser combinados de distintas maneras como impulsos eléctricos, ponen las bases para la informática.
